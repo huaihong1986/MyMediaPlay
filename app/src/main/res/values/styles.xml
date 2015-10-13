@@ -4,6 +4,7 @@
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
     </style>
+<<<<<<< HEAD
     <style name="Mode_select_bg" parent="android:Theme.Light">
         <item name="android:background">@color/transparent</item>
     </style>
@@ -26,4 +27,7 @@
         <item name="android:windowBackground">@null</item>
         <item name="android:backgroundDimEnabled">false</item>
     </style>
+=======
+
+>>>>>>> origin/master
 </resources>
