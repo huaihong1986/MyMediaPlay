@@ -6,4 +6,5 @@
     <color name="white">#ffffffff</color>
     <color name="light_aqua">#FF4FC1E9</color>
     <color name="dark_aqua_alpha">#7F3BAFDA</color>
+    <color name="blue">#009</color>
 </resources>

@@ -100,7 +100,7 @@ public class CloudTVIPlayActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.video_view_play_vod);
         mContext = this;
-        progressDialog = new ProgressDialog(this);
+        progressDialog = new ProgressDialog(this,R.style.dialog);
         showWaitDialog();
         handler = new sendResultHandler();
         Log.i(TAG, "onCreate");
