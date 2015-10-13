@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="black">#ff000000</color>
+    <color name="black_video_gide_back">#88000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="light_aqua">#FF4FC1E9</color>
+    <color name="dark_aqua_alpha">#7F3BAFDA</color>
+</resources>
